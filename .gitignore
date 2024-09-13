@@ -24,7 +24,6 @@ ScaffoldingReadMe.txt
 packages/
 
 # ASP.NET Core
-appsettings*.json
 *.db
 *.sqlite
 

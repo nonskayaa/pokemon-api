@@ -10,7 +10,7 @@ using PokemonApi.Data;
 namespace PokemonApi.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240908113736_InitialCreate")]
+    [Migration("20240913132841_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
