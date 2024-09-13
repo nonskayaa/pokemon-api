@@ -45,7 +45,7 @@
    ```bash
    dotnet run
 
-2. API будет доступно по умолчанию по адресу http://localhost:5041.
+2. API будет доступно по умолчанию по адресу http://localhost:5041 или можно посмотреть с помощью Swagger UI по адресу http://localhost:5041/swagger
 
 ## API Эндпоинты
 
